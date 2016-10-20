@@ -1,1 +1,2 @@
 * TODO do not hard-code prompt
+* TODO account for case where focused window is on a buffer with a name like "*foo*"
